@@ -1,0 +1,14 @@
+C:\Users\inova\source\repos\TestQuestion\WPFInterviewTest\bin\Debug\WPFInterviewTest.exe.config
+C:\Users\inova\source\repos\TestQuestion\WPFInterviewTest\bin\Debug\WPFInterviewTest.exe
+C:\Users\inova\source\repos\TestQuestion\WPFInterviewTest\bin\Debug\WPFInterviewTest.pdb
+C:\Users\inova\source\repos\TestQuestion\WPFInterviewTest\obj\Debug\MainWindow.g.cs
+C:\Users\inova\source\repos\TestQuestion\WPFInterviewTest\obj\Debug\App.g.cs
+C:\Users\inova\source\repos\TestQuestion\WPFInterviewTest\obj\Debug\WPFInterviewTest_MarkupCompile.cache
+C:\Users\inova\source\repos\TestQuestion\WPFInterviewTest\obj\Debug\WPFInterviewTest_MarkupCompile.lref
+C:\Users\inova\source\repos\TestQuestion\WPFInterviewTest\obj\Debug\MainWindow.baml
+C:\Users\inova\source\repos\TestQuestion\WPFInterviewTest\obj\Debug\WPFInterviewTest.g.resources
+C:\Users\inova\source\repos\TestQuestion\WPFInterviewTest\obj\Debug\WPFInterviewTest.Properties.Resources.resources
+C:\Users\inova\source\repos\TestQuestion\WPFInterviewTest\obj\Debug\WPFInterviewTest.csproj.GenerateResource.cache
+C:\Users\inova\source\repos\TestQuestion\WPFInterviewTest\obj\Debug\WPFInterviewTest.csproj.CoreCompileInputs.cache
+C:\Users\inova\source\repos\TestQuestion\WPFInterviewTest\obj\Debug\WPFInterviewTest.exe
+C:\Users\inova\source\repos\TestQuestion\WPFInterviewTest\obj\Debug\WPFInterviewTest.pdb
